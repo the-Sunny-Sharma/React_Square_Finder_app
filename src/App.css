@@ -1,0 +1,61 @@
+
+body{
+  background-color: aqua;
+}
+
+h1{
+  font-size: 1.5Srem;
+  text-align: center;
+}
+p{
+  font-size: 0.8em;;
+  text-align: center;
+}
+
+.container{
+  background-color: azure;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+
+.text {
+  width: 80%;
+  text-align: center;
+  padding: 10px;
+}
+
+.button {
+  background-color: #00FF00;
+  text-align: center;
+  padding: 10px;
+}
+ 
+.clearBtn {
+  background-color: #333333;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.msg {
+  padding: 10px;
+  font-size: 2em;
+  background-color: #000;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 50px;
+  color: #fff;
+}
+
+p span {
+  font-size: 0.4em;
+  display: block;
+}
+
+.container-btn {
+  margin-top: 20px;
+  
+}
